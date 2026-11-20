@@ -576,7 +576,7 @@ public class FurnitureTable extends JTable implements View, Printable {
   }
 
   /**
-   * Adds <code>PropertyChange</code> and {@link FurnitureListener FurnitureListener} listeners 
+   * Adds property change and furniture listeners
    * to home to update furniture sort in table when <code>furnitureSortedProperty</code>, 
    * <code>furnitureAscendingSorted</code> or furniture in <code>home</code> changes.
    */
