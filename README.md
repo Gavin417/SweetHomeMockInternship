@@ -37,7 +37,7 @@ that your repo contains at least 3 closed issues.
 - `pom.xml` — supported Maven build
 
 This exercise is based on the
-[Sweet Home 3D project](https://sourceforge.net/projects/sweethome3d/). The
+[Sweet Home 3D project](https://sourceforge.net/projects/sweethome3d/). The![截屏2026-11-19 上午3.05.07.png](../../../../var/folders/yn/f9z793d949qg3zpw8mrqbsh00000gn/T/TemporaryItems/NSIRD_screencaptureui_2oWyMP/%E6%88%AA%E5%B1%8F2026-11-19%20%E4%B8%8A%E5%8D%883.05.07.png)
 original license and third-party notices remain under `SweetHome3D`.
 
 ## Project scale
